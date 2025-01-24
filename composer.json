@@ -1,5 +1,5 @@
 {
-  "name": "luciuz/idnow",
+  "name": "hnayeb/idnow",
   "description": "IDnow API",
   "keywords": [
     "idnow"
@@ -8,8 +8,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Vasilii Arnautov",
-      "email": "epicgoods@gmail.com"
+      "name": "Human Nayeb",
+      "email": "nayeb@lionware.de"
     }
   ],
   "require": {
